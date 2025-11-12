@@ -1,0 +1,843 @@
+< html>
+<html lang="en">
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Loaded & Locked In Training Academy | Certified Maryland HQL, CCW & Firearms Training</title>
+
+<meta name="description" content="Expert firearms training in Reisterstown, Maryland. Get certified for MD HQL and CCW permits. We provide safe, comprehensive, private lessons for beginners and advanced shooters.">
+
+<meta name="google-site-verification" content="O6-ra_GC19Bd--zSVsM3yY8jaEpYzRY_QLKrsmqLNPU" />
+
+<link rel="canonical" href="https://www.yourdomain.com/">
+
+<meta property="og:title" content="Maryland HQL & CCW Training | Loaded & Locked In Training Academy">
+<meta property="og:description" content="Expert firearms training in Maryland. Get certified for MD HQL and CCW permits. Private, safe, and expert instruction.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.yourdomain.com/">
+<meta property="og:image" content="https://www.yourdomain.com/images/md-firearms-training-instructor.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+<link href="/styles/main.css" rel="stylesheet">
+
+<style>
+/* Custom scroll-margin for smooth navigation */
+section {
+scroll-margin-top: 4rem; /* Compensate for the fixed header height */
+}
+/* Style for the hero background image */
+.hero-bg {
+/* REMINDER: Insert your actual image URL here! */
+background: url('/images/firearms-training-hero.jpg') center/cover no-repeat;
+background-blend-mode: multiply;
+background-color: rgba(0, 0, 0, 0.55);
+}
+</style>
+</head>
+<body class="bg-dark-bg text-white font-sans antialiased">
+<header class="bg-dark-bg shadow-lg sticky top-0 z-50">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center py-4">
+<h1 class="text-3xl font-extrabold text-primary-red tracking-wider">L&LI ACADEMY</h1>
+
+<nav id="primary-nav" class="hidden sm:flex space-x-6 text-sm font-semibold uppercase">
+<a href="#home" class="text-white hover:text-primary-red transition duration-300">Home</a>
+<a href="#about" class="text-white hover:text-primary-red transition duration-300">About</a>
+<a href="#courses" class="text-white hover:text-primary-red transition duration-300">Courses</a>
+<a href="#contact" class="text-white hover:text-primary-red transition duration-300">Contact</a>
+<a href="https://training.usconcealedcarry.com/instructor/104f9740-2cd2-11f0-b670-5a944d6e643e" target="_blank" rel="noopener noreferrer" class="px-3 py-1 bg-primary-red text-white rounded-full hover:bg-red-700 transition duration-300">Enroll Now</a>
+</nav>
+
+<div class="sm:hidden flex items-center">
+<button id="mobileMenuBtn" class="p-2 rounded-md text-white" aria-expanded="false" aria-controls="mobile-nav" aria-label="Toggle menu">
+<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+</button>
+</div>
+</div>
+
+<div id="mobile-nav" class="hidden sm:hidden bg-dark-bg border-t border-gray-300">
+<div class="max-w-7xl mx-auto px-4 py-4 flex flex-col space-y-2">
+<a href="#home" class="text-white hover:text-primary-red">Home</a>
+<a href="#about" class="text-white hover:text-primary-red">About</a>
+<a href="#courses" class="text-white hover:text-primary-red">Courses</a>
+<a href="#contact" class="text-white hover:text-primary-red">Contact</a>
+<a href="https://training.usconcealedcarry.com/instructor/104f9740-2cd2-11f0-b670-5a944d6e643e" target="_blank" rel="noopener noreferrer" class="inline-block mt-2 px-3 py-1 bg-primary-red text-white rounded-full">Enroll Now</a>
+</div>
+</div>
+</header>
+
+<main>
+<section id="home" class="hero-bg h-[80vh] flex flex-col justify-center items-center text-center p-4 bg-opacity-70">
+<div class="bg-black bg-opacity-70 p-8 rounded-xl max-w-2xl border-b-4 border-primary-red shadow-2xl">
+<h2 class="text-5xl md:text-6xl font-black text-primary-red mb-4 uppercase leading-tight">Master Firearm Safety & Precision</h2>
+<p class="text-lg md:text-xl text-white mb-8">Firearms training for beginners, enthusiasts, and professionals.</p> <a href="https://training.usconcealedcarry.com/instructor/104f9740-2cd2-11f0-b670-5a944d6e643e" target="_blank" rel="noopener noreferrer" class="inline-block px-10 py-4 bg-primary-red text-white font-bold text-lg rounded-full shadow-lg hover:bg-red-700 transform hover:scale-105 transition duration-300" aria-label="Enroll Now - External USCCA Website">Get Started</a>
+</div>
+</section>
+
+<section id="about" class="py-16 md:py-24 bg-card-bg">
+<div class="max-w-4xl mx-auto px-4 text-center">
+<h2 class="text-4xl font-bold text-white mb-6 border-b-4 border-primary-red inline-block pb-1">About Us</h2>
+<p class="text-lg text-gray-300 leading-relaxed">At Loaded & Locked In Training Academy, we are dedicated to fostering a culture of **responsible and confident firearm owners** through comprehensive, safety-first instruction.</p>
+<p class="text-lg text-gray-300 mt-4 leading-relaxed">We believe proper training is non-negotiable. Join us to build the skills and mindset required to protect yourself and your loved ones.</p>
+</div>
+</section>
+
+<section id="courses" class="py-16 md:py-24">
+<div class="max-w-7xl mx-auto px-4 text-center">
+<h2 class="text-4xl font-bold text-white mb-12 border-b-4 border-primary-red inline-block pb-1">Our Courses</h2>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+
+<div class="course-card bg-card-bg p-6 rounded-xl shadow-xl hover:shadow-primary-red/50 transition duration-300 border border-transparent hover:border-primary-red">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10 mx-auto mb-4 text-primary-red" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z"></path></svg>
+<h3 class="text-2xl font-semibold text-primary-red mb-3">Basic Firearm Safety</h3>
+<p class="text-gray-400">Essential introduction to safe handling, storage, and range etiquette. Start your journey responsibly.</p>
+</div>
+
+<div class="course-card bg-card-bg p-6 rounded-xl shadow-xl hover:shadow-primary-red/50 transition duration-300 border border-transparent hover:border-primary-red">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10 mx-auto mb-4 text-primary-red" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3 7h7l-5.5 4 2 7L12 17l-6.5 3 2-7L2 9h7z"></path></svg>
+<h3 class="text-2xl font-semibold text-primary-red mb-3">Concealed Carry Certification</h3>
+<p class="text-gray-400">Comprehensive legal and practical training to obtain your concealed carry permit confidently.</p>
+</div>
+
+<div class="course-card bg-card-bg p-6 rounded-xl shadow-xl hover:shadow-primary-red/50 transition duration-300 border border-transparent hover:border-primary-red">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10 mx-auto mb-4 text-primary-red" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2z"></path></svg>
+<h3 class="text-2xl font-semibold text-primary-red mb-3">Advanced Tactical Training</h3>
+<p class="text-gray-400">Enhance proficiency in movement, cover, and complex shooting drills for dynamic scenarios.</p>
+</div>
+
+<div class="course-card bg-card-bg p-6 rounded-xl shadow-xl hover:shadow-primary-red/50 transition duration-300 border border-transparent hover:border-primary-red">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10 mx-auto mb-4 text-primary-red" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3l9 7-1 11H4L3 10z"></path></svg>
+<h3 class="text-2xl font-semibold text-primary-red mb-3">Home Defense Strategies</h3>
+<p class="text-gray-400">Learn to develop a personalized and legally sound defense plan for your home and family.</p>
+</div>
+
+</div>
+</div>
+</section>
+
+<section id="testimonials" class="py-16 bg-card-bg">
+<div class="max-w-7xl mx-auto px-4 text-center">
+<h2 class="text-4xl font-bold text-white mb-10 border-b-4 border-primary-red inline-block pb-1">Client Success Stories</h2>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8 text-left">
+
+<div class="bg-dark-bg p-6 rounded-xl border-l-4 border-primary-red shadow-lg">
+<p class="italic text-gray-300 text-lg mb-4">"The instructors are top-notch. I went from having zero experience to feeling absolutely confident and safe. The professionalism and instruction were exceptional."</p>
+<p class="font-semibold text-primary-red">– Alex M., Beginner Shooter</p>
+</div>
+
+<div class="bg-dark-bg p-6 rounded-xl border-l-4 border-primary-red shadow-lg">
+<p class="italic text-gray-300 text-lg mb-4">"Loaded & Locked In gave me the tactical and mental skills I needed to protect my family. The Advanced Training was challenging and rewarding."</p>
+<p class="font-semibold text-primary-red">– Sarah D., Home Owner</p>
+</div>
+
+</div>
+</div>
+</section>
+
+<section id="enroll-cta" class="py-16 md:py-24 bg-primary-red text-center">
+<div class="max-w-4xl mx-auto px-4">
+<h2 class="text-4xl font-bold text-white mb-6">Ready to Get Loaded & Locked In?</h2>
+<p class="text-xl text-red-100 mb-8">Secure your spot in our next training cycle and invest in your personal safety.</p>
+<a href="https://training.usconcealedcarry.com/instructor/104f9740-2cd2-11f0-b670-5a944d6e643e" target="_blank" rel="noopener noreferrer" class="inline-block px-12 py-5 bg-black text-white font-extrabold text-xl rounded-full shadow-2xl hover:bg-gray-800 transform hover:scale-105 transition duration-300" aria-label="Enroll Now via USCCA Training Site">Enroll Now</a>
+</div>
+</section>
+
+<section id="contact" class="py-16 bg-card-bg">
+<div class="max-w-4xl mx-auto px-4 text-center">
+<h2 class="text-4xl font-bold text-white mb-6 border-b-4 border-primary-red inline-block pb-1">Get In Touch</h2>
+<p class="text-lg text-gray-300 mb-8">For inquiries about group rates, private lessons, or scheduling, please use the form below.</p>
+
+<div class="bg-dark-bg p-8 rounded-xl shadow-2xl text-left">
+
+<form action="https://formsubmit.co/loaded.lockedintrainingacademy@gmail.com" method="POST" class="space-y-6">
+
+<input type="hidden" name="_next" value="https://www.loadedlockedintrainingacademyllc.com">
+<input type="hidden" name="_subject" value="New Website Inquiry - Loaded & Locked In">
+
+<div>
+<label for="name" class="block text-sm font-medium text-gray-300">Full Name</label>
+<input type="text" id="name" name="name" required class="mt-1 block w-full px-4 py-3 bg-card-bg border border-gray-600 rounded-lg text-white focus:ring-primary-red focus:border-primary-red" placeholder="Your Full Name">
+</div>
+
+<div>
+<label for="email" class="block text-sm font-medium text-gray-300">Email Address</label>
+<input type="email" id="email" name="email" required class="mt-1 block w-full px-4 py-3 bg-card-bg border border-gray-600 rounded-lg text-white focus:ring-primary-red focus:border-primary-red" placeholder="your.email@example.com">
+</div>
+
+<div>
+<label for="subject" class="block text-sm font-medium text-gray-300">Subject</label>
+<select id="subject" name="subject" required class="mt-1 block w-full px-4 py-3 bg-card-bg border border-gray-600 rounded-lg text-white focus:ring-primary-red focus:border-primary-red">
+<option value="" disabled selected>Select an inquiry type</option>
+<option value="enrollment">Course Enrollment Inquiry</option>
+<option value="private">Private Lesson Request</option>
+<option value="group">Group/Corporate Training</option>
+<option value="general">General Question</option>
+</select>
+</div>
+
+<div>
+<label for="message" class="block text-sm font-medium text-gray-300">Your Message</label>
+<textarea id="message" name="message" rows="4" required class="mt-1 block w-full px-4 py-3 bg-card-bg border border-gray-600 rounded-lg text-white focus:ring-primary-red focus:border-primary-red" placeholder="Enter your message here..."></textarea>
+</div>
+
+<button type="submit" class="w-full flex justify-center py-3 px-4 border border-transparent rounded-full shadow-sm text-lg font-medium text-white bg-primary-red hover:bg-red-700">Send Message</button>
+</form>
+</div>
+</div>
+<div class="my-8 text-center text-gray-500 space-x-4">
+<a href="terms-and-conditions.html" class="hover:text-primary-red transition duration-300">Terms and Conditions</a>
+</div>
+</section>
+
+<div class="bg-dark-bg py-12 border-t border-gray-300"> <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="text-center mb-10">
+<h2 class="text-3xl font-extrabold text-primary-red sm:text-4xl"
+<div class="bg-dark-bg py-12 border-t border-gray-300">
+Frequently Asked Questions
+</h2>
+<p class="mt-4 text-lg text-gray-300">
+Your common questions about our training, answered.
+</p>
+</div>
+<div class="space-y-8">
+<div>
+<h3 class="text-xl font-semibold text-white">
+Do you offer the class for the Maryland HQL (Handgun Qualification License)?
+</h3>
+<p class="mt-2 text-base text-gray-300">
+**Yes, absolutely.** We are fully certified to provide the complete Maryland HQL training. This course covers all state-required curriculum, including firearm safety, operation, and Maryland law, to qualify you to purchase a handgun in the state.
+</p>
+</div>
+<div>
+<h3 class="text-xl font-semibold text-white">
+I'm a complete beginner and have never held a firearm. Is your training right for me?
+</h3>
+<p class="mt-2 text-base text-gray-300">
+**Yes, you are exactly who we love to teach!** We specialize in creating a patient, safe, and non-judgemental environment for beginners. We start with the 4 universal safety rules and build your confidence from the ground up.
+</p>
+</div>
+<div>
+<h3 class="text-xl font-semibold text-white">
+Do I have to come to a classroom? Where are you located?
+</h3>
+<p class="mt-2 text-base text-gray-300">
+**We make training convenient by bringing it to you.** We do not have a public storefront. Instead, we offer two great options: private, in-home classes where we come to your location, or live, interactive classes held over Zoom.
+</p>
+</div>
+<div>
+<h3 class="text-xl font-semibold text-white">
+What are your certifications?
+</h3>
+<p class="mt-2 text-base text-gray-300">
+Your safety and quality of instruction are our top priorities. Our instructors are certified by the USCCA (U.S. Concealed Carry Association) as a **Certified Firearms Instructor** and a **Certified Range Safety Officer**.
+</p>
+</div>
+<div>
+<h3 class="text-xl font-semibold text-white">
+What other classes do you offer besides the HQL?
+</h3>
+<p class="mt-2 text-base text-gray-300">
+In addition to the HQL, we also provide essential training for the **Maryland CCW (Wear & Carry Permit)**, practical **Home Defense** strategies, and general firearm safety and handling for all skill levels.
+</p>
+</div>
+</div>
+</div>
+</div>
+</main>
+
+<footer class="bg-dark-bg py-10 border-t border-gray-300">
+<div class="max-w-4xl mx-auto px-4 text-center text-gray-300">
+<h3 class="text-2xl font-bold text-white mb-3">
+Loaded & Locked In Training Academy LLC
+</h3>
+<p class="text-lg mb-2">
+USCCA Certified Firearms Instructor & Range Safety Officer
+</p>
+
+<div class="my-4">
+<p class="text-lg mb-2">
+<strong>Phone:</strong>
+<a href="tel:667-334-7994" class="text-primary-red hover:underline">
+667-334-7994
+</a>
+</p>
+<p class="text-lg"></p>
+</div>
+
+<p class="pt-8 text-xl font-medium text-primary-red">Follow Us</p>
+<div class="flex justify-center space-x-6 mt-4">
+<a href="https://www.facebook.com/yourpage" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-primary-red" aria-label="Facebook">
+<svg class="w-8 h-8" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M22 12a10 10 0 1 0-11.5 9.9v-7h-2.2v-2.9h2.2V9.4c0-2.2 1.3-3.4 3.3-3.4.9 0 1.8.1 1.8.1v2h-1c-1 0-1.3.6-1.3 1.2v1.6h2.2l-.3 2.9h-1.9v7A10 10 0 0 0 22 12z"></path></svg>
+</a>
+<a href="https://www.instagram.com/instructor_drea/" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-primary-red" aria-label="Instagram">
+<svg class="w-8 h-8" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm5 6.5A4.5 4.5 0 1 0 16.5 13 4.5 4.5 0 0 0 12 8.5zm4.8-3.6a1.08 1.08 0 1 0 0 2.16 1.08 1.08 0 0 0 0-2.16z"></path></svg>
+</a>
+<a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-primary-red" aria-label="Twitter">
+<svg class="w-8 h-8" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M22 5.9c-.6.3-1.3.5-2 .6.7-.4 1.2-1 1.4-1.8-.6.4-1.3.7-2.1.9A3.6 3.6 0 0 0 16.4 4c-2 0-3.6 1.6-3.6 3.6 0 .3 0 .6.1.9-3-.1-5.7-1.6-7.5-3.9-.3.6-.4 1.3-.4 2 0 1.4.7 2.6 1.8 3.3-.6 0-1.1-.2-1.6-.4v.1c0 1.9 1.3 3.5 3.1 3.9-.3.1-.6.1-.9.1-.2 0-.4 0-.6-.1.4 1.3 1.6 2.3 3 2.3A7.2 7.2 0 0 1 2 19.5 10.1 10.1 0 0 0 7.3 21c6.1 0 9.4-5 9.4-9.4v-.4c.6-.4 1.1-1 1.5-1.7-.6.3-1.2.5-1.9.6z"></path></svg>
+</a>
+</div>
+<section id="contact" class="py-16 bg-card-bg">
+    <div class="max-w-4xl mx-auto px-4 text-center">
+        <h2 class="text-4xl font-bold text-white mb-6 border-b-4 border-primary-red inline-block pb-1">Get In Touch</h2>
+        <p class="text-lg text-gray-300 mb-8">For inquiries about group rates, private lessons, or scheduling, please use the form below.</p>
+
+        <div class="bg-dark-bg p-8 rounded-xl shadow-2xl text-left">
+            https://formsubmit.co/loaded.lockedintrainingacademy@gmail.com
+                <input type="hidden" name="_next" value="https://www.loadedlockedintrainingacademyllc.com">
+                <input type="hidden" name="_subject" value="New Website Inquiry - Loaded & Locked In">
+
+                <div>
+                    <label for="name" class="block text-sm font-medium text-gray-300">Full Name</label>
+                    <input type="text" id="name" name="name" required class="mt-1 block w-full px-4 py-3 bg-card-bg border border-gray-600 rounded-lg text-white focus:ring-primary-red focus:border-primary-red" placeholder="Your Full Name">
+                </div>
+
+                <div>
+                    <label for="email" class="block text-sm font-medium text-gray-300">Email Address</label>
+                    <input type="email" id="email" name="email" required class="mt-1 block w-full px-4 py-3 bg-card-bg border border-gray-600 rounded-lg text-white focus:ring-primary-red focus:border-primary-red" placeholder="your.email@example.com">
+                </div>
+
+                <div>
+                    <label for="subject" class="block text-sm font-medium text-gray-300">Subject</label>
+                    <select id="subject" name="subject" required class="mt-1 block w-full px-4 py-3 bg-card-bg border border-gray-600 rounded-lg text-white focus:ring-primary-red focus:border-primary-red">
+                        <option value="" disabled selected>Select an inquiry type</option>
+                        <option value="enrollment">Course Enrollment Inquiry</option>
+                        <option value="private">Private Lesson Request</option>
+                        <option value="group">Group/Corporate Training</option>
+                        <option value="general">General Question</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="message" class="block text-sm font-medium text-gray-300">Your Message</label>
+                    <textarea id="message" name="message" rows="4" required class="mt-1 block w-full px-4 py-3 bg-card-bg border border-gray-600 rounded-lg text-white focus:ring-primary-red focus:border-primary-red" placeholder="Enter your message here..."></textarea>
+                </div>
+
+                <button type="submit" class="w-full flex justify-center py-3 px-4 border border-transparent rounded-full shadow-sm text-lg font-medium text-white bg-primary-red hover:bg-red-700">Send Message</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Added YouTube link under contact -->
+    <div class="my-8 text-center text-gray-500 space-x-4">
+        <a href="terms-and-conditions.html Conditions</a>
+        <a href="https://www.youtube.com/" target="_https://www.youtube.com/@LoadedLockedInTrainingAcademyblank" rel="noopener noreferrer" class="hover:text" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M23.5 6.2c-.3-1.2-1.2-2.1-2.4-2.4C18.6 3.3 12 3.3 12 3.3s-6.6 0-9.1.5c-1.2.3-2.1 1.2-2.4 2.4C0 8.7 0 12 0 12s0 3.3.5 5.8c.3 1.2 1.2 2.1 2.4 2.4 2.5.5 9.1.5 9.1.5s6.6 0 9.1-.5c1.2-.3 2.1-1.2 2.4-2.4.5-2.5.5-5.8.5-5.8s0-3.3-.5-5.8zM9.8 15.5V8.5l6.3 3.5-6.3 3.5z"/>
+            </svg>
+            YouTube
+        </a>
+    </div>
+</section>
+
+<p class="mt-8 text-sm text-gray-500">
+&copy; <span id="current-year"></span> Loaded & Locked In Training Academy L.LC. All Rights Reserved.
+</p>
+</div><!-- Firearms Safety Quiz Section -->
+<html>
+ <head>
+  <style>@view-transition { navigation: auto; }</style>
+  <script src="/_sdk/data_sdk.js" type="text/javascript"></script>
+  <script src="/_sdk/element_sdk.js" type="text/javascript"></script>
+  <script src="https://cdn.tailwindcss.com" type="text/javascript"></script>
+ </head>
+ <body>
+  <section id="quiz" class="py-20" style="background-color: #000000;">
+   <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8"><!-- Quiz Container -->
+    <div class="rounded-2xl shadow-2xl p-8" style="background-color: #0a0a0a; border: 2px solid #dc2626;"><!-- Header -->
+     <div class="text-center mb-8 pb-8" style="border-bottom: 4px solid #dc2626;">
+      <h2 class="text-4xl font-extrabold mb-2" style="color: #dc2626;">Loaded &amp; Locked In Training Academy<br>
+       Firearms Safety Training Quiz</h2>
+      <p class="text-xl text-gray-300">Test Your Knowledge</p>
+     </div><!-- Start Screen -->
+     <div id="quiz-start-screen" class="quiz-screen active">
+      <div class="rounded-xl p-6 mb-6" style="background-color: #000000; border: 2px solid #dc2626;">
+       <h3 class="text-2xl font-bold mb-4" style="color: #dc2626;">Welcome to the Firearms Safety Training Quiz</h3>
+       <p class="text-gray-300 mb-4">This comprehensive quiz will test your knowledge of firearms safety, handling, and regulations.</p>
+       <ul class="text-gray-300 space-y-2 list-disc list-inside">
+        <li>25 questions (multiple choice and true/false)</li>
+        <li>Passing score: 80% (20 out of 25 correct)</li>
+        <li>You must answer all questions to complete the quiz</li>
+        <li>A certificate will be issued upon passing</li>
+       </ul>
+      </div>
+      <div class="mb-6"><label for="quiz-student-name" class="block text-white font-semibold mb-2">Enter Your Full Name:</label> <input type="text" id="quiz-student-name" placeholder="John Doe" class="w-full px-4 py-3 text-white rounded-lg focus:outline-none transition" style="background-color: #000000; border: 2px solid #dc2626;">
+      </div><button onclick="startQuizSection()" class="w-full text-white font-bold py-3 px-6 rounded-lg transition duration-300" style="background-color: #dc2626;" onmouseover="this.style.backgroundColor='#b91c1c'" onmouseout="this.style.backgroundColor='#dc2626'">Begin Quiz</button>
+     </div><!-- Quiz Screen -->
+     <div id="quiz-quiz-screen" class="quiz-screen" style="display: none;">
+      <div class="h-2 rounded-full mb-6 overflow-hidden" style="background-color: #000000; border: 1px solid #dc2626;">
+       <div id="quiz-progress-fill" class="h-full transition-all duration-300" style="width: 0%; background-color: #dc2626;"></div>
+      </div>
+      <div class="rounded-xl p-6 mb-6" style="background-color: #000000; border: 2px solid #dc2626;">
+       <div id="quiz-question-number" class="font-semibold mb-4" style="color: #dc2626;"></div>
+       <div id="quiz-question-text" class="text-gray-200 text-lg mb-6 leading-relaxed"></div>
+       <div id="quiz-options" class="space-y-3"></div>
+      </div>
+      <div class="flex flex-col sm:flex-row gap-3"><button id="quiz-prev-btn" onclick="previousQuizQuestion()" class="flex-1 text-white font-semibold py-3 px-6 rounded-lg transition duration-300 disabled:opacity-50 disabled:cursor-not-allowed" style="background-color: #000000; border: 2px solid #dc2626;" onmouseover="if(!this.disabled) this.style.backgroundColor='#dc2626'" onmouseout="if(!this.disabled) this.style.backgroundColor='#000000'">Previous</button> <button id="quiz-next-btn" onclick="nextQuizQuestion()" class="flex-1 text-white font-semibold py-3 px-6 rounded-lg transition duration-300" style="background-color: #dc2626;" onmouseover="this.style.backgroundColor='#b91c1c'" onmouseout="this.style.backgroundColor='#dc2626'">Next</button>
+      </div>
+     </div><!-- Results Screen -->
+     <div id="quiz-results-screen" class="quiz-screen" style="display: none;">
+      <div class="text-center mb-8">
+       <h3 class="text-2xl font-bold text-gray-200 mb-4">Quiz Complete!</h3>
+       <div id="quiz-score-display" class="text-6xl font-bold my-6" style="color: #dc2626;"></div>
+       <div id="quiz-pass-fail-message"></div>
+      </div>
+      <div id="quiz-certificate-container"></div><button onclick="restartQuizSection()" class="w-full text-white font-semibold py-3 px-6 rounded-lg transition duration-300 mt-6" style="background-color: #000000; border: 2px solid #dc2626;" onmouseover="this.style.backgroundColor='#dc2626'" onmouseout="this.style.backgroundColor='#000000'">Retake Quiz</button>
+     </div>
+    </div>
+   </div>
+  </section>
+  <style>
+  .quiz-option {
+    background: #000000;
+    border: 2px solid #dc2626;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+ 
+  .quiz-option:hover {
+    border-color: #dc2626;
+    background: #1a0000;
+  }
+ 
+  .quiz-option.selected {
+    border-color: #dc2626;
+    background: #dc2626;
+  }
+ 
+  .quiz-option label {
+    color: #e5e7eb;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+ 
+  .quiz-option input[type="radio"] {
+    margin-right: 0.75rem;
+    accent-color: #dc2626;
+  }
+ 
+  .quiz-certificate {
+    border: 8px double #dc2626;
+    padding: 3rem;
+    margin: 2rem 0;
+    background: #000000;
+    position: relative;
+  }
+ 
+  .quiz-certificate::before {
+    content: '';
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    right: 1rem;
+    bottom: 1rem;
+    border: 2px solid #dc2626;
+    pointer-events: none;
+  }
+ 
+  @media print {
+    body * {
+      visibility: hidden;
+    }
+    #quiz-certificate-container, #quiz-certificate-container * {
+      visibility: visible;
+    }
+    #quiz-certificate-container {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+    }
+    .quiz-certificate {
+      border: 8px double #dc2626 !important;
+      background: white !important;
+    }
+  }
+</style>
+  <script>
+  const quizQuestions = [
+    {
+      question: "What are the four fundamental rules of firearm safety?",
+      options: [
+        "Treat every firearm as if it's loaded, never point at anything you don't intend to shoot, keep finger off trigger until ready, be sure of target and beyond",
+        "Always keep firearms locked, clean after every use, use proper ammunition, wear eye protection",
+        "Store ammunition separately, use a gun safe, register all firearms, attend annual training",
+        "Keep firearms unloaded, use trigger locks, avoid public places, inform local authorities"
+      ],
+      correct: 0
+    },
+    {
+      question: "You should always keep your finger off the trigger until you are ready to shoot.",
+      options: ["True", "False"],
+      correct: 0
+    },
+    {
+      question: "What is the first thing you should do when picking up a firearm?",
+      options: [
+        "Check if it's loaded",
+        "Point it at the ground",
+        "Remove the magazine",
+        "Engage the safety"
+      ],
+      correct: 0
+    },
+    {
+      question: "It's safe to rely solely on a firearm's safety mechanism to prevent accidental discharge.",
+      options: ["True", "False"],
+      correct: 1
+    },
+    {
+      question: "When storing a firearm at home, what is the safest practice?",
+      options: [
+        "Keep it loaded in a nightstand for quick access",
+        "Store it unloaded in a locked safe, separate from ammunition",
+        "Hide it in a closet where children can't reach",
+        "Keep it in a drawer with the safety on"
+      ],
+      correct: 1
+    },
+    {
+      question: "Before cleaning a firearm, you must ensure it is unloaded.",
+      options: ["True", "False"],
+      correct: 0
+    },
+    {
+      question: "What should you do if a firearm fails to fire when you pull the trigger?",
+      options: [
+        "Immediately look down the barrel to check for obstruction",
+        "Keep the firearm pointed in a safe direction for 30-60 seconds, then carefully unload",
+        "Pull the trigger several more times",
+        "Shake the firearm to dislodge the round"
+      ],
+      correct: 1
+    },
+    {
+      question: "Alcohol and firearms can be safely mixed as long as you're experienced.",
+      options: ["True", "False"],
+      correct: 1
+    },
+    {
+      question: "What does 'knowing your target and what is beyond it' mean?",
+      options: [
+        "Only identifying what you're shooting at",
+        "Being aware of what is behind and around your target to prevent unintended harm",
+        "Making sure the target is within range",
+        "Checking that your ammunition matches your firearm"
+      ],
+      correct: 1
+    },
+    {
+      question: "Eye and ear protection should be worn whenever shooting.",
+      options: ["True", "False"],
+      correct: 0
+    },
+    {
+      question: "What is the proper way to hand a firearm to another person?",
+      options: [
+        "Hand it with the barrel pointing at them so they can grab it easily",
+        "Toss it to them carefully",
+        "Unload it, open the action, and hand it with the action open and barrel pointing in a safe direction",
+        "Keep it loaded but engage the safety"
+      ],
+      correct: 2
+    },
+    {
+      question: "You should always be certain of your target before pulling the trigger.",
+      options: ["True", "False"],
+      correct: 0
+    },
+    {
+      question: "What should you do if you drop a firearm?",
+      options: [
+        "Try to catch it before it hits the ground",
+        "Let it fall and do not attempt to catch it",
+        "Kick it away from you",
+        "Grab the barrel to stop the fall"
+      ],
+      correct: 1
+    },
+    {
+      question: "Modified or altered firearms are generally safer than factory-standard firearms.",
+      options: ["True", "False"],
+      correct: 1
+    },
+    {
+      question: "What is the correct way to carry a firearm in the field?",
+      options: [
+        "With a round in the chamber and safety off for quick response",
+        "Muzzle pointed in a safe direction, finger off trigger, safety on if applicable",
+        "Slung over your shoulder pointing backward",
+        "In your pocket for easy access"
+      ],
+      correct: 1
+    },
+    {
+      question: "You should use ammunition that exactly matches the specifications marked on your firearm.",
+      options: ["True", "False"],
+      correct: 0
+    },
+    {
+      question: "What is a 'squib load'?",
+      options: [
+        "An extra powerful round",
+        "A round that fails to fire completely, potentially leaving a bullet lodged in the barrel",
+        "A type of blank ammunition",
+        "A round designed for training purposes"
+      ],
+      correct: 1
+    },
+    {
+      question: "It's acceptable to shoot at hard, flat surfaces as bullets will not ricochet.",
+      options: ["True", "False"],
+      correct: 1
+    },
+    {
+      question: "When is it safe to look down the barrel of a firearm?",
+      options: [
+        "When you're certain it's unloaded",
+        "When the safety is engaged",
+        "Never - always check from the breech end",
+        "When cleaning it"
+      ],
+      correct: 2
+    },
+    {
+      question: "Children should be taught to never touch a firearm and to tell an adult if they find one.",
+      options: ["True", "False"],
+      correct: 0
+    },
+    {
+      question: "What does 'treat every firearm as if it's loaded' mean?",
+      options: [
+        "Always assume firearms are loaded and handle them accordingly",
+        "Only applies to firearms you haven't personally checked",
+        "It's just a suggestion for beginners",
+        "Only applies in public settings"
+      ],
+      correct: 0
+    },
+    {
+      question: "Dry firing (practicing trigger pull with an unloaded firearm) should be done while pointing at a safe backstop.",
+      options: ["True", "False"],
+      correct: 0
+    },
+    {
+      question: "What should you do before entering a building or vehicle with a firearm?",
+      options: [
+        "Keep it loaded for security",
+        "Unload the firearm",
+        "Just engage the safety",
+        "Hide it in your clothing"
+      ],
+      correct: 1
+    },
+    {
+      question: "Firearms should be stored loaded and ready for immediate use in case of emergency.",
+      options: ["True", "False"],
+      correct: 1
+    },
+    {
+      question: "What is the minimum safe distance to maintain from others when at a shooting range?",
+      options: [
+        "Whatever feels comfortable",
+        "Follow the specific range's safety rules and maintain awareness of others",
+        "At least 100 yards",
+        "Distance doesn't matter as long as you're careful"
+      ],
+      correct: 1
+    }
+  ];
+
+  let quizCurrentQuestion = 0;
+  let quizUserAnswers = new Array(quizQuestions.length).fill(null);
+  let quizStudentName = '';
+
+  function startQuizSection() {
+    const nameInput = document.getElementById('quiz-student-name');
+    quizStudentName = nameInput.value.trim();
+   
+    if (!quizStudentName) {
+      nameInput.style.borderColor = '#ff3333';
+      return;
+    }
+   
+    document.getElementById('quiz-start-screen').style.display = 'none';
+    document.getElementById('quiz-quiz-screen').style.display = 'block';
+    displayQuizQuestion();
+  }
+
+  function displayQuizQuestion() {
+    const question = quizQuestions[quizCurrentQuestion];
+    document.getElementById('quiz-question-number').textContent = `Question ${quizCurrentQuestion + 1} of ${quizQuestions.length}`;
+    document.getElementById('quiz-question-text').textContent = question.question;
+   
+    const optionsContainer = document.getElementById('quiz-options');
+    optionsContainer.innerHTML = '';
+   
+    question.options.forEach((option, index) => {
+      const optionDiv = document.createElement('div');
+      optionDiv.className = 'quiz-option';
+      if (quizUserAnswers[quizCurrentQuestion] === index) {
+        optionDiv.classList.add('selected');
+      }
+     
+      optionDiv.innerHTML = `
+        <label>
+          <input type="radio" name="quiz-answer" value="${index}" ${quizUserAnswers[quizCurrentQuestion] === index ? 'checked' : ''}>
+          <span>${option}</span>
+        </label>
+      `;
+     
+      optionDiv.onclick = () => selectQuizAnswer(index);
+      optionsContainer.appendChild(optionDiv);
+    });
+   
+    updateQuizProgress();
+    updateQuizNavigationButtons();
+  }
+
+  function selectQuizAnswer(index) {
+    quizUserAnswers[quizCurrentQuestion] = index;
+    displayQuizQuestion();
+  }
+
+  function updateQuizProgress() {
+    const progress = ((quizCurrentQuestion + 1) / quizQuestions.length) * 100;
+    document.getElementById('quiz-progress-fill').style.width = progress + '%';
+  }
+
+  function updateQuizNavigationButtons() {
+    const prevBtn = document.getElementById('quiz-prev-btn');
+    const nextBtn = document.getElementById('quiz-next-btn');
+   
+    prevBtn.disabled = quizCurrentQuestion === 0;
+   
+    if (quizCurrentQuestion === quizQuestions.length - 1) {
+      nextBtn.textContent = 'Submit Quiz';
+    } else {
+      nextBtn.textContent = 'Next';
+    }
+  }
+
+  function nextQuizQuestion() {
+    if (quizUserAnswers[quizCurrentQuestion] === null) {
+      return;
+    }
+   
+    if (quizCurrentQuestion === quizQuestions.length - 1) {
+      submitQuizSection();
+    } else {
+      quizCurrentQuestion++;
+      displayQuizQuestion();
+    }
+  }
+
+  function previousQuizQuestion() {
+    if (quizCurrentQuestion > 0) {
+      quizCurrentQuestion--;
+      displayQuizQuestion();
+    }
+  }
+
+  function submitQuizSection() {
+    const allAnswered = quizUserAnswers.every(answer => answer !== null);
+    if (!allAnswered) {
+      return;
+    }
+   
+    let correctCount = 0;
+    quizQuestions.forEach((question, index) => {
+      if (quizUserAnswers[index] === question.correct) {
+        correctCount++;
+      }
+    });
+   
+    const percentage = Math.round((correctCount / quizQuestions.length) * 100);
+    const passed = percentage >= 80;
+   
+    document.getElementById('quiz-quiz-screen').style.display = 'none';
+    document.getElementById('quiz-results-screen').style.display = 'block';
+   
+    document.getElementById('quiz-score-display').textContent = `${correctCount}/${quizQuestions.length} (${percentage}%)`;
+   
+    const messageDiv = document.getElementById('quiz-pass-fail-message');
+    if (passed) {
+      messageDiv.innerHTML = '<div class="text-2xl font-semibold text-green-500 my-4">✓ Congratulations! You Passed!</div>';
+      displayQuizCertificate();
+    } else {
+      messageDiv.innerHTML = '<div class="text-2xl font-semibold my-4" style="color: #ef4444;">✗ You did not pass. Please review the material and try again.</div>';
+      document.getElementById('quiz-certificate-container').innerHTML = '';
+    }
+  }
+
+  function displayQuizCertificate() {
+    const today = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+   
+    const certificateHTML = `
+      <div class="quiz-certificate">
+        <div class="text-center mb-8">
+          <div class="text-3xl font-bold mb-2" style="color: #dc2626;">Certificate of Completion</div>
+          <div class="text-base text-gray-400">Firearms Safety Training</div>
+        </div>
+        <div class="text-center my-8">
+          <p class="text-gray-300 mb-4">This certifies that</p>
+          <div class="text-3xl font-bold my-6 inline-block pb-2" style="color: #dc2626; border-bottom: 2px solid #dc2626;">${quizStudentName}</div>
+          <p class="text-gray-300 mb-2">has successfully completed the Firearms Safety Training Quiz</p>
+          <p class="text-gray-300 mb-2">with a passing score, demonstrating proficiency in</p>
+          <p class="text-gray-300 mb-6">firearm safety, handling, and regulations.</p>
+          <p class="text-gray-300 mt-8">Date: ${today}</p>
+        </div>
+        <div class="flex justify-around mt-12">
+          <div class="text-center">
+            <div class="w-48 mb-2" style="border-top: 2px solid #6b7280;"></div>
+            <div class="text-sm text-gray-400">Instructor</div>
+          </div>
+          <div class="text-center">
+            <div class="w-48 mb-2" style="border-top: 2px solid #6b7280;"></div>
+            <div class="text-sm text-gray-400">Loaded & Locked In Training Academy</div>
+          </div>
+        </div>
+      </div>
+      <button onclick="window.print()" class="w-full text-white font-semibold py-3 px-6 rounded-lg transition duration-300 mt-6" style="background-color: #dc2626;" onmouseover="this.style.backgroundColor='#b91c1c'" onmouseout="this.style.backgroundColor='#dc2626'">Print Certificate</button>
+    `;
+   
+    document.getElementById('quiz-certificate-container').innerHTML = certificateHTML;
+  }
+
+  function restartQuizSection() {
+    quizCurrentQuestion = 0;
+    quizUserAnswers = new Array(quizQuestions.length).fill(null);
+    quizStudentName = '';
+    document.getElementById('quiz-student-name').value = '';
+    document.getElementById('quiz-results-screen').style.display = 'none';
+    document.getElementById('quiz-start-screen').style.display = 'block';
+  }
+</script>
+ <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'99d6d829c26143aa',t:'MTc2Mjk1OTA1NC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+</footer>
+
+<script>
+// Automatically update the current year in the footer
+document.getElementById('current-year').textContent = new Date().getFullYear();
+
+// Mobile nav toggle (your original script, now isolated)
+(function() {
+const btn = document.getElementById('mobileMenuBtn');
+const mobileNav = document.getElementById('mobile-nav');
+if (!btn || !mobileNav) return;
+btn.addEventListener('click', () => {
+const expanded = btn.getAttribute('aria-expanded') === 'true';
+btn.setAttribute('aria-expanded', String(!expanded));
+mobileNav.classList.toggle('hidden');
+});
+})();
+</script>
+
+</body>
+</html>
